@@ -206,10 +206,6 @@ vlr.gg_scraper/
 - **For educational/research purposes** - respect data usage policies
 - **No commercial use** without proper permissions
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - [VLR.gg](https://vlr.gg) for providing comprehensive Valorant esports data
